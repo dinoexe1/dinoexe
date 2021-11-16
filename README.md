@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/cyberchekuthan">dinoexe_v2</a> to
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@dinoexe/dinoexe)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@dinoexe1/Kittuni-2?v=1)
   
 ### The Hard Method
 ```js
