@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=DINOEXE.jpg>
+<img src=KITTUNI.jpg>
 </p>
   <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/dinoexe_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
