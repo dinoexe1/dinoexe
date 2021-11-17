@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/cyberchekuthan">dinoexe_v2</a> to
 
 ## Click Youtube logo to Watch full video and findout password in this video 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/5MKycJxmA4c)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/kNNH3S5aUeQ)
 
 
   ### Simple Method
