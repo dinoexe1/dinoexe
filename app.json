@@ -18,7 +18,7 @@
         },
          "YT_PASSWORD": {
             "description": "enter the password, to get password watch https://youtu.be/kNNH3S5aUeQ .",
-            "required": afamk
+            "required": 
         },
         "LANGUAGE": {
             "description": "Bot language.English => en",
@@ -199,7 +199,7 @@
         },
         "DEPLOYER": {
             "description": "enter your name here",
-            "required": kichu
+            "required": 
         },
         "REMOVE_BG_API_KEY": {
             "description": "https://remove.bg",
