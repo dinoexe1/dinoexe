@@ -1,7 +1,7 @@
-/* Copyright (C) 2021 Amalser.
+/* Copyright (C) 2021 DinoExe.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-Remoded by - Amal
+Remoded by - Kichu
 */
 
 const Asena = require('../events');
