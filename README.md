@@ -7,7 +7,7 @@
 <img src=KITTUNI.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/DINO-EXE-cyberchekuthan/dinoexe_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="http://wa.me/+994408993612?text=Can%20you%20help%20bro"><img title="Author" src="https://img.shields.io/badge/DINO-EXE-cyberchekuthan/dinoexe_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p
 </div>
 <p align="center">
