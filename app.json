@@ -4,8 +4,8 @@
     "logo": "https://i.imgur.com/BP2868z_d.webp",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/dinoexe1/dinoexe",
-    "website":   "https://github.com/farhan-dqz/Julie-Mwol",
-    "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
+    "website":   "https://github.com/dinoexe1/dinoexe",
+    "success_url": "https://github.com/dinoexe1/dinoexe",
     "stack": "container",
     "env": {
         "DINO_EXE_CODE": {
