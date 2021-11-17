@@ -1,5 +1,5 @@
-/* codded by afnanplk
-modified by KTB
+/* codded by kichu
+modified by DINO
 */
 
 const { Sequelize } = require('sequelize');
